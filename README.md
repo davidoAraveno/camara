@@ -1,3 +1,18 @@
+npm ERR! fsevents not accessible from jest-haste-map
+
+	I saw this error this week. I changed package versions, then the error has gone. Here are my versions that seem related to this error. I'm not sure this   is     the correct way to fix it.
+
+	"@testing-library/jest-dom": "^5.14.1",
+	"@testing-library/react": "^11.2.7",
+	"@testing-library/user-event": "^13.1.9"
+  
+  
+  
+ npm i jest-haste-map
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
